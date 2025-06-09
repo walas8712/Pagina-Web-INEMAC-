@@ -53,7 +53,7 @@ background-color: #e5e7eb;
 <header class="bg-white shadow-sm sticky top-0 z-50">
 <div class="container mx-auto px-4 py-3 flex justify-between items-center">
 <a href="#" class="flex items-center hover:opacity-90 transition-opacity">
-<img src="https://static.readdy.ai/image/96e5929cc978f1d5b2c6005d0965087e/453fc979e66c8b05761c20932443328b.jpeg" alt="INEMAC Logo" class="h-12 w-auto">
+<img src="https://static.readdy.ai/image/96e5929cc978f1d5b2c6005d0965087e/453fc979e66c8b05761c20932443328b.jpeg" alt="INEMAC Logo" width"300" height"200" class="h-12 w-auto">
 </a>
 <nav class="hidden md:flex space-x-8">
 <a href="#inicio" class="text-gray-800 font-medium hover:text-primary transition-colors">Inicio</a>
